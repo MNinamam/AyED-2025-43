@@ -1,5 +1,0 @@
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Mamani Torres_0\0_Mamani Torres_0\bin\Debug\0_Mamani Torres_0.exe.config
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Mamani Torres_0\0_Mamani Torres_0\bin\Debug\0_Mamani Torres_0.exe
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Mamani Torres_0\0_Mamani Torres_0\bin\Debug\0_Mamani Torres_0.pdb
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Mamani Torres_0\0_Mamani Torres_0\obj\Debug\0_Mamani Torres_0.exe
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Mamani Torres_0\0_Mamani Torres_0\obj\Debug\0_Mamani Torres_0.pdb
