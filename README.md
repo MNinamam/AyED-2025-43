@@ -2,4 +2,4 @@
 **Curso:** 4to 3ra
 **Máquina asignada:** 2
 **Integrantes:**
-- Mamani Torres
+- Matías Mamani Torres
