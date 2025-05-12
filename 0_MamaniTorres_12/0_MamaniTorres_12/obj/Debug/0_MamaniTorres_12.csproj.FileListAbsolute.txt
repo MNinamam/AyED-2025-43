@@ -1,6 +1,0 @@
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_MamaniTorres_12\0_MamaniTorres_12\bin\Debug\0_MamaniTorres_12.exe.config
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_MamaniTorres_12\0_MamaniTorres_12\bin\Debug\0_MamaniTorres_12.exe
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_MamaniTorres_12\0_MamaniTorres_12\bin\Debug\0_MamaniTorres_12.pdb
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_MamaniTorres_12\0_MamaniTorres_12\obj\Debug\0_MamaniTorres_12.csprojResolveAssemblyReference.cache
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_MamaniTorres_12\0_MamaniTorres_12\obj\Debug\0_MamaniTorres_12.exe
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_MamaniTorres_12\0_MamaniTorres_12\obj\Debug\0_MamaniTorres_12.pdb
