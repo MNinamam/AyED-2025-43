@@ -1,0 +1,5 @@
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Cortinez_5\0_Cortinez_5\bin\Debug\0_Cortinez_5.exe.config
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Cortinez_5\0_Cortinez_5\bin\Debug\0_Cortinez_5.exe
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Cortinez_5\0_Cortinez_5\bin\Debug\0_Cortinez_5.pdb
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Cortinez_5\0_Cortinez_5\obj\Debug\0_Cortinez_5.exe
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Cortinez_5\0_Cortinez_5\obj\Debug\0_Cortinez_5.pdb
