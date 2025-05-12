@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Cortinez_8\0_Cortinez_8\bin\Debug\0_Cortinez_8.exe.config
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Cortinez_8\0_Cortinez_8\bin\Debug\0_Cortinez_8.exe
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Cortinez_8\0_Cortinez_8\bin\Debug\0_Cortinez_8.pdb
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Cortinez_8\0_Cortinez_8\obj\Debug\0_Cortinez_8.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Cortinez_8\0_Cortinez_8\obj\Debug\0_Cortinez_8.exe
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 0\0_Cortinez_8\0_Cortinez_8\obj\Debug\0_Cortinez_8.pdb
