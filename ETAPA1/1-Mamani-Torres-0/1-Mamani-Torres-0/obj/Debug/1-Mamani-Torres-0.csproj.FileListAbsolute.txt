@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 1\1-Mamani-Torres-0\1-Mamani-Torres-0\bin\Debug\1-Mamani-Torres-0.exe.config
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 1\1-Mamani-Torres-0\1-Mamani-Torres-0\bin\Debug\1-Mamani-Torres-0.exe
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 1\1-Mamani-Torres-0\1-Mamani-Torres-0\bin\Debug\1-Mamani-Torres-0.pdb
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 1\1-Mamani-Torres-0\1-Mamani-Torres-0\obj\Debug\1-Mamani-Torres-0.csprojResolveAssemblyReference.cache
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 1\1-Mamani-Torres-0\1-Mamani-Torres-0\obj\Debug\1-Mamani-Torres-0.exe
+C:\Users\alumno\Desktop\AyED-2025\ETAPA 1\1-Mamani-Torres-0\1-Mamani-Torres-0\obj\Debug\1-Mamani-Torres-0.pdb
