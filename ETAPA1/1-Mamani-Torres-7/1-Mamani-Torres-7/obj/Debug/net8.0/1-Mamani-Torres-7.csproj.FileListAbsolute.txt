@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\bin\Debug\net8.0\1-Mamani-Torres-7.exe
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\bin\Debug\net8.0\1-Mamani-Torres-7.deps.json
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\bin\Debug\net8.0\1-Mamani-Torres-7.runtimeconfig.json
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\bin\Debug\net8.0\1-Mamani-Torres-7.dll
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\bin\Debug\net8.0\1-Mamani-Torres-7.pdb
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\obj\Debug\net8.0\1-Mamani-Torres-7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\obj\Debug\net8.0\1-Mamani-Torres-7.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\obj\Debug\net8.0\1-Mamani-Torres-7.AssemblyInfo.cs
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\obj\Debug\net8.0\1-Mamani-Torres-7.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\obj\Debug\net8.0\1-Mamani-Torres-7.dll
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\obj\Debug\net8.0\refint\1-Mamani-Torres-7.dll
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\obj\Debug\net8.0\1-Mamani-Torres-7.pdb
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\obj\Debug\net8.0\1-Mamani-Torres-7.genruntimeconfig.cache
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-7\1-Mamani-Torres-7\obj\Debug\net8.0\ref\1-Mamani-Torres-7.dll
