@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\bin\Debug\net8.0\1-Mamani-Torres-13.exe
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\bin\Debug\net8.0\1-Mamani-Torres-13.deps.json
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\bin\Debug\net8.0\1-Mamani-Torres-13.runtimeconfig.json
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\bin\Debug\net8.0\1-Mamani-Torres-13.dll
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\bin\Debug\net8.0\1-Mamani-Torres-13.pdb
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\obj\Debug\net8.0\1-Mamani-Torres-13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\obj\Debug\net8.0\1-Mamani-Torres-13.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\obj\Debug\net8.0\1-Mamani-Torres-13.AssemblyInfo.cs
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\obj\Debug\net8.0\1-Mamani-Torres-13.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\obj\Debug\net8.0\1-Mamani-Torres-13.dll
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\obj\Debug\net8.0\refint\1-Mamani-Torres-13.dll
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\obj\Debug\net8.0\1-Mamani-Torres-13.pdb
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\obj\Debug\net8.0\1-Mamani-Torres-13.genruntimeconfig.cache
+C:\Users\User\Desktop\Mati Visual code\Laboratorio\ETAPA1\1-Mamani-Torres-13\1-Mamani-Torres-13\obj\Debug\net8.0\ref\1-Mamani-Torres-13.dll
