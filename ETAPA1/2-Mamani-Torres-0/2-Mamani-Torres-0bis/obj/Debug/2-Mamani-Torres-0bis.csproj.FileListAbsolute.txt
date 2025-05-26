@@ -1,9 +1,0 @@
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 1\2-Mamani-Torres-0bis\2-Mamani-Torres-0bis\bin\Debug\2-Mamani-Torres-0bis.exe.config
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 1\2-Mamani-Torres-0bis\2-Mamani-Torres-0bis\bin\Debug\2-Mamani-Torres-0bis.exe
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 1\2-Mamani-Torres-0bis\2-Mamani-Torres-0bis\bin\Debug\2-Mamani-Torres-0bis.pdb
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 1\2-Mamani-Torres-0bis\2-Mamani-Torres-0bis\obj\Debug\2-Mamani-Torres-0bis.csprojResolveAssemblyReference.cache
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 1\2-Mamani-Torres-0bis\2-Mamani-Torres-0bis\obj\Debug\2-Mamani-Torres-0bis.exe
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 1\2-Mamani-Torres-0bis\2-Mamani-Torres-0bis\obj\Debug\2-Mamani-Torres-0bis.pdb
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 2\2-Mamani-Torres-0\2-Mamani-Torres-0bis\bin\Debug\2-Mamani-Torres-0bis.exe.config
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 2\2-Mamani-Torres-0\2-Mamani-Torres-0bis\obj\Debug\2-Mamani-Torres-0bis.exe
-C:\Users\alumno\Desktop\AyED-2025\ETAPA 2\2-Mamani-Torres-0\2-Mamani-Torres-0bis\obj\Debug\2-Mamani-Torres-0bis.pdb
