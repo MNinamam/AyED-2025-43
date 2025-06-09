@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\bin\Debug\net8.0\2-Mamani-Torres-10.exe
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\bin\Debug\net8.0\2-Mamani-Torres-10.deps.json
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\bin\Debug\net8.0\2-Mamani-Torres-10.runtimeconfig.json
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\bin\Debug\net8.0\2-Mamani-Torres-10.dll
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\bin\Debug\net8.0\2-Mamani-Torres-10.pdb
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\obj\Debug\net8.0\2-Mamani-Torres-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\obj\Debug\net8.0\2-Mamani-Torres-10.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\obj\Debug\net8.0\2-Mamani-Torres-10.AssemblyInfo.cs
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\obj\Debug\net8.0\2-Mamani-Torres-10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\obj\Debug\net8.0\2-Mamani-Torres-10.dll
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\obj\Debug\net8.0\refint\2-Mamani-Torres-10.dll
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\obj\Debug\net8.0\2-Mamani-Torres-10.pdb
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\obj\Debug\net8.0\2-Mamani-Torres-10.genruntimeconfig.cache
+C:\Users\User\Desktop\Mati Visual Studio\Laboratorio\ETAPA2\2-Mamani-Torres-10\2-Mamani-Torres-10\obj\Debug\net8.0\ref\2-Mamani-Torres-10.dll
